@@ -24,9 +24,10 @@ _Este también está en cursiva_
 | Celda 1      | Celda 2      | Celda 3     |
 | Celda 4      | Celda 5      | Celda 6     |
 
-| Celda 1      | Celda 2      | Celda 3     |
-| Celda 4      | Celda 5      | Celda 6     |
+<div style="background-color: lightblue; padding: 10px;">
+  <h2 style="color: navy;">Título de la sección</h2>
+  <p>Este es un párrafo con <a href="https://www.example.com">un enlace</a>.</p>
+  <img src="https://www.example.com/imagen.jpg" alt="Imagen de ejemplo">
+</div>
 
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
-| Celda 1      | Celda 2      | Celda 3     |
-| Celda 4      | Celda 5      | Celda 6     |
+Lorem ipsum dolor sit amet
