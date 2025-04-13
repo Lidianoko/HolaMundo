@@ -14,7 +14,7 @@ __Este también está en negrita__
 _Este también está en cursiva_  
 ***Este texto está en negrita y cursiva***
 
-[ ] Revisar la documentación
-[x] Implementar la funcionalidad principal
+- [ ] Revisar la documentación
+- [x] Implementar la funcionalidad principal
 - [ ] Escribir pruebas unitarias
 - [x] Actualizar el README
