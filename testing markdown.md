@@ -11,5 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 **Este texto está en negrita**  
 *Este texto está en cursiva*  
 __Este también está en negrita__  
-_Este también está en cursiva_
+_Este también está en cursiva_  
 ***Este texto está en negrita y cursiva***
